@@ -6,3 +6,6 @@ Developed a responsive website for Food Store where users can see a list of food
 - Implemented product youtube videos by using bootstrap embed and model components
 
 Technologies used: HTML, CSS, Bootstrap
+
+
+visit: https://dineshgatla.github.io/dinfood-website/
